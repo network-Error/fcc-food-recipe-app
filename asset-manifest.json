@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-food-recipe-app/static/css/main.4b5e9f34.css",
+    "main.js": "/fcc-food-recipe-app/static/js/main.3d96580f.js",
+    "static/js/453.80da570a.chunk.js": "/fcc-food-recipe-app/static/js/453.80da570a.chunk.js",
+    "index.html": "/fcc-food-recipe-app/index.html",
+    "main.4b5e9f34.css.map": "/fcc-food-recipe-app/static/css/main.4b5e9f34.css.map",
+    "main.3d96580f.js.map": "/fcc-food-recipe-app/static/js/main.3d96580f.js.map",
+    "453.80da570a.chunk.js.map": "/fcc-food-recipe-app/static/js/453.80da570a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5e9f34.css",
+    "static/js/main.3d96580f.js"
+  ]
+}
